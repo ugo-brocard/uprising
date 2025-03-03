@@ -1,1 +1,2 @@
+from background.fixed import FixedBackground
 from background.parallax import ParallaxBackground
